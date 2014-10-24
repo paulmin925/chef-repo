@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Overview
 ========
 
@@ -60,9 +59,3 @@ If you use the `ssl_cert` task, change the values in the `config/rake.rb` file a
 The second config file, `.chef/knife.rb` is a repository specific configuration file for knife. If you're using the Opscode Platform, you can download one for your organization from the management console. If you're using the Open Source Chef Server, you can generate a new one with `knife configure`. For more information about configuring Knife, see the Knife documentation.
 
 http://docs.opscode.com/knife.html
-
-Next Steps
-==========
-
-Read the README file in each of the subdirectories for more information about what goes in those directories.
-=======
