@@ -1,4 +1,4 @@
 source "https://supermarket.getchef.com"
 
-cookbook "nginx", path: '/Users/pmin/chef-repo/cookbooks/nginx'
-cookbook "php5-fpm", path: '/Users/pmin/chef-repo/cookbooks/php5-fpm'
+cookbook "nginx", path: '~/chef-repo/cookbooks/nginx'
+cookbook "php5-fpm", path: '~/chef-repo/cookbooks/php5-fpm'
